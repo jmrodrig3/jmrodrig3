@@ -1,34 +1,32 @@
-## Hi there 👋
+Overview
 
-🚀 Business Intelligence Engineer | Fintech & Payments Analytics | SQL, Power BI, QuickSight
+I am a Business Intelligence Engineer at Clubessential Holdings with expertise in SQL, Power BI, and AWS QuickSight. With 10 years of experience in finance and 5 years in data analytics, I specialize in building financial dashboards, KPI reporting, and data-driven insights to optimize operations in fintech, payments processing, and merchant analytics.
 
-Hi, I’m John—a data-driven problem solver with expertise in SQL, Power BI, and AWS QuickSight, currently working as a Business Intelligence Engineer at Clubessential Holdings. My background spans fintech, payments processing, and merchant analytics, where I specialize in building financial dashboards, KPI reporting, and data-driven insights that help businesses optimize operations.
+Areas of Focus
 
-💡 What I Work On:
+Financial & Payments Analytics: Analyzing transaction cost margins, interchange fees, and merchant processing trends to support strategic decision-making.
+Business Intelligence & Dashboarding: Developing data visualizations and reporting solutions using QuickSight and Power BI.
+SQL & Data Engineering: Crafting optimized SQL queries for large datasets, designing ETL processes, and structuring databases.
 
-Financial & Payments Analytics: Deep-diving into transaction cost margins, interchange fees, and merchant processing trends.
-Business Intelligence & Dashboarding: Creating powerful data visualizations and reporting solutions in QuickSight & Power BI.
-SQL & Data Engineering: Writing optimized SQL queries for large datasets, ETL processes, and database structuring.
+Professional Background
 
-📈 Past Experience:
-With a career foundation in investment banking and B2B sales at institutions like Bank of America, Merrill, Wells Fargo, and PNC, I bring a unique mix of financial acumen, data expertise, and sales strategy, now applying it to the fintech and payments industry.
+My career began with a foundation in investment banking and B2B sales at institutions including Bank of America, Merrill, Wells Fargo, and PNC. This financial acumen, combined with my data expertise, now drives my work in the fintech and payments industry, where I create actionable insights from complex datasets.
+Current Projects
 
-🔧 Current Projects:
+GitHub Portfolio: This repository showcases fintech dashboards, SQL queries, and data analysis projects, including automated workflows and reporting tools.
+Japanese Language Learning: Enhancing proficiency in Japanese for professional and personal development.
 
-GitHub Portfolio: Showcasing fintech dashboards, SQL queries, and data analysis projects.
-Japanese Language Learning: Improving my proficiency in Japanese (日本語) for both professional and personal growth.
+Future Interests
 
-🚀 Future Goals:
+Expanding expertise in fintech analytics and AI-driven insights.
+Advancing reporting automation techniques in QuickSight and Power BI.
+Supporting clients in developing tailored Business Intelligence suites for operational and financial needs.
+Exploring roles in sales engineering, customer solutions engineering, or solutions architecture to connect technical skills with client success.
+Engaging with professionals in fintech, payments, and business intelligence.
 
-Expanding my expertise in fintech analytics & AI-driven insights.
-Exploring advanced reporting automation in QuickSight & Power BI.
-Helping clients build full-scale Business Intelligence suites tailored to their operational and financial needs.
-Transitioning into sales engineering, customer solutions engineering, or solutions architecture to bridge the gap between technical expertise and client success.
-Networking with industry professionals in fintech, payments, and business intelligence.
-📫 Let’s Connect!
+Contact
 
-LinkedIn - www.linkedin.com/in/john-r-jr
-GitHub - github.com/jmrodrig3
+LinkedIn: www.linkedin.com/in/john-r-jr
+GitHub: github.com/jmrodrig3
 
-Open to discussing fintech, data analytics, and business intelligence opportunities!
-
+I welcome discussions on fintech, data analytics, and business intelligence topics. Feel free to reach out via GitHub Issues or LinkedIn for collaboration opportunities.
