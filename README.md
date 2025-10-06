@@ -27,6 +27,7 @@ Engaging with professionals in fintech, payments, and business intelligence.
 **Contact**
 
 LinkedIn: www.linkedin.com/in/john-r-jr
+
 GitHub: github.com/jmrodrig3
 
 I welcome discussions on fintech, data analytics, and business intelligence topics. Feel free to reach out via GitHub Issues or LinkedIn for collaboration opportunities.
